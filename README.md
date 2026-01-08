@@ -1,1 +1,1 @@
-# MamalakisResearch
+# Mamalakis Research
