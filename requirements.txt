@@ -1,1 +1,20 @@
-# We should make this at one point
+# --- Core Data Processing ---
+numpy>=1.20.0
+scipy>=1.7.0
+pandas>=1.3.0
+
+# --- Climate Data & NetCDF Support ---
+xarray>=0.20.0
+netCDF4
+h5py
+dask[complete]
+bottleneck
+
+# --- Visualization & Geospatial ---
+matplotlib>=3.4.0
+cartopy>=0.20.0
+
+# --- Machine Learning & Explainability ---
+# TensorFlow 2.x supports the tf.compat.v1 layer used in the scripts
+tensorflow>=2.12.0
+shap>=0.40.0
