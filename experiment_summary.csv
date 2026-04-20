@@ -1,0 +1,2 @@
+scenario,early_yr,late_yr,mean_pred,accuracy
+ssp119,2015,2025,0.44074288,0.82
